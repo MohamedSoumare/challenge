@@ -47,7 +47,7 @@ body {
     margin: 0;
     padding: 0;
 
-    background-image: url('../calculator.webp');
+   
     background-size: cover; /* Couvre tout le fond avec l'image */
     background-repeat: no-repeat;
     background-position: center;
