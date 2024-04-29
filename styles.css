@@ -11,7 +11,7 @@
     padding: 0; 
     margin: 0;
     display: flex;
-    justify-content: space-around; 
+    justify-content: space-around;  /* Distribue l'espace de manière égale entre les éléments de la liste */
 
 }
 
@@ -48,7 +48,7 @@ body {
     padding: 0;
 
     background-image: url('../calculator.webp');
-    background-size: cover;
+    background-size: cover; /* Couvre tout le fond avec l'image */
     background-repeat: no-repeat;
     background-position: center;
 
